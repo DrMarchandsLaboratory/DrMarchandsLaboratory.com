@@ -7,6 +7,14 @@ This repository contains the **core governance, legal notices, system architectu
 
 ---
 
+## 📊 Live Version Badges
+[![TOS Version](https://img.shields.io/badge/TOS-{{TOS_VERSION}}-blue?logo=shield)](https://drmarchandslaboratory.com/TOS/)  
+[![Privacy Version](https://img.shields.io/badge/Privacy-{{PRIVACY_VERSION}}-green?logo=shield)](https://drmarchandslaboratory.com/Privacy/)  
+[![Notice Version](https://img.shields.io/badge/Notice-{{NOTICE_VERSION}}-orange?logo=shield)](https://drmarchandslaboratory.com/Notice/)  
+[![License Version](https://img.shields.io/badge/License-{{LICENSE_VERSION}}-red?logo=shield)](./License.html)
+
+---
+
 ## 📜 Terms of Service (TOS)
 By using the Lab⚛︎ratory™, you agree to the **Terms of Service** provided by **🏝️ Design Orchard™ / 🌴 Design Orchard LLC**:  
 
@@ -54,20 +62,11 @@ The Lab⚛︎ratory™ and its content are licensed under **Apache 2.0**, dynami
 
 ---
 
-### 📜 License Display (Web-based Dynamic)
-You can also view a **dynamic, web-based version of the Apache license**:
-
-- **Live Apache 2.0 License:** [License.html](./License.html)  
-- **Dynamic placeholders:** `{{LICENSE_VERSION}}`, `{{LAST_UPDATE}}`, `{{BRAND_AUTHORITY}}`  
-- Styled for 🔬 Lab⚛︎ratory™, integrates automatically with your engine
-
----
-
-## ⚖️ Current Versions
-- TOS: `{{TOS_VERSION}}`  
-- Privacy: `{{PRIVACY_VERSION}}`  
-- Notice: `{{NOTICE_VERSION}}`  
-- License: `{{LICENSE_VERSION}}`  
+### ⚖️ Current Versions (Badges)
+[![TOS Version](https://img.shields.io/badge/TOS-{{TOS_VERSION}}-blue?logo=shield)]  
+[![Privacy Version](https://img.shields.io/badge/Privacy-{{PRIVACY_VERSION}}-green?logo=shield)]  
+[![Notice Version](https://img.shields.io/badge/Notice-{{NOTICE_VERSION}}-orange?logo=shield)]  
+[![License Version](https://img.shields.io/badge/License-{{LICENSE_VERSION}}-red?logo=shield)]
 
 > Placeholders are dynamically filled by the engine for the latest legal versions.
 
