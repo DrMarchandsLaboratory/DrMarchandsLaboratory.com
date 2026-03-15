@@ -29,26 +29,27 @@ Your interaction with Lab⚛︎ratory™ is governed by the **Privacy Policy**:
 - **Dynamic Variables:** `{{PRIVACY_VERSION}}`, `{{LAST_UPDATE}}`, `{{USER_ID}}`, `{{ENGINE_LINK}}`  
 - Covers **data collection, use, sharing, user rights, security, and cookies**  
 
-> Privacy practices may **be updated periodically**. Continued use = acceptance of the latest version.
+> Privacy practices may be updated periodically. Continued use = acceptance of the latest version.
 
 ---
 
-## 🪧 Notice
+## 🪧 Notice – ∞ OS™
 All trademarks, system names, and proprietary content are **owned and operated by Design Orchard LLC**:  
 
-- 🪧 **Authoritative Notice (website):** [https://drmarchandslaboratory.com/Notice/](https://drmarchandslaboratory.com/NOTICE/)  
-- 🪧 **GitHub version (for version control):** [NOTICE.md](./NOTICE.md)  
+- 🪧 **Authoritative Notice (website):** [https://drmarchandslaboratory.com/Notice/](https://drmarchandslaboratory.com/Notice/)  
+- 🪧 **GitHub version (for version control):** [Notice-OS.md](./Notice-OS.md)  
 - Includes **system ownership, branding, disclaimers, and licensing restrictions**  
-- Covers 🔬 DrMarchand’s Lab⚛︎ratory™, DrMarchand’s ♾️ OS™, Lionheart℠, and ⚙︎ Nɛuro-Forge Engine™
+- Covers DrMarchand’s ♾️ OS™, Lionheart℠, ⚙︎ Nɛuro-Forge Engine™, 🪑 DrMarchand’s ☸︎ Workbench™
 
 > Nothing in the Notice grants permission to reproduce proprietary logic or use trademarks without authorization.
 
 ---
 
-## 🪪 License
+## 🪪 License – DrMarchand’s Lab⚛︎ratory™
 The Lab⚛︎ratory™ and its content are **proprietary**:  
 
-- 🪪 **View / Version-controlled License:** [LICENSE.md](./LICENSE.md)  
+- 🪪 **Authoritative License (website):** [https://drmarchandslaboratory.com/License/](https://drmarchandslaboratory.com/License/)  
+- 🪪 **GitHub version (for version control):** [License-DML.md](./License-DML.md)  
 - Covers **authorized use, restrictions, liability, updates, and attribution**  
 
 > Continued use constitutes acceptance of the license terms.
@@ -59,6 +60,7 @@ The Lab⚛︎ratory™ and its content are **proprietary**:
 - TOS: `{{TOS_VERSION}}`  
 - Privacy: `{{PRIVACY_VERSION}}`  
 - Notice: `{{NOTICE_VERSION}}`  
+- License: `{{LICENSE_VERSION}}`  
 
 > These values are dynamically pulled from the engine to reflect the latest legal versions.
 
@@ -79,4 +81,4 @@ For questions about licensing, terms, or usage:
 
 **© 2026 🌴 Design Orchard LLC**  
 All Rights Reserved.  
-🔬 DrMarchand’s Lab⚛︎ratory™ | DrMarchand’s ♾️ OS™ | Lionheart℠ | ⚙︎ Nɛuro-Forge Engine™ | 🪑 DrMarchand’s ☸︎ Workbench™  
+🔬 DrMarchand’s Lab⚛︎ratory™ | DrMarchand’s ♾️ OS™ | Lionheart℠ | ⚙︎ Nɛuro-Forge Engine™ | 🪑 DrMarchand’s ☸︎ Workbench™
