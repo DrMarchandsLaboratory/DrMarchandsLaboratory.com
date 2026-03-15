@@ -45,14 +45,14 @@ All trademarks, system names, and proprietary content are **owned and operated b
 
 ---
 
-## 🪪 License – DrMarchand’s Lab⚛︎ratory™
-The Lab⚛︎ratory™ and its content are **proprietary**:  
+## 🪪 License – DrMarchand’s Lab⚛︎ratory™ (Apache 2.0)
+The Lab⚛︎ratory™ and its content are **licensed under Apache 2.0**:  
 
 - 🪪 **Authoritative License (website):** [https://drmarchandslaboratory.com/License/](https://drmarchandslaboratory.com/License/)  
 - 🪪 **GitHub version (for version control):** [License-DML.md](./License-DML.md)  
 - Covers **authorized use, restrictions, liability, updates, and attribution**  
 
-> Continued use constitutes acceptance of the license terms.
+> Continued use constitutes acceptance of the Apache 2.0 license terms.
 
 ---
 
