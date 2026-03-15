@@ -12,7 +12,8 @@ This repository contains the **core governance, legal notices, and system archit
 ## 📜 Terms of Service (TOS)
 By using the Lab⚛︎ratory™, you agree to the **Terms of Service**:  
 
-- 🪪 **View / Version-controlled TOS:** [Terms_of_Service.md](./../DesignOrchardLLC/DrMarchandsLab.com/Terms_of_Service.md)  
+- 🪪 **Authoritative TOS (website):** [https://drmarchandslaboratory.com/TOS/](https://drmarchandslaboratory.com/TOS/)  
+- 🪪 **GitHub version (for version control):** [Terms_of_Service.md](./Terms_of_Service.md)  
 - **Dynamic Variables:** `{{TOS_VERSION}}`, `{{LAST_UPDATE}}`, `{{USER_ID}}`  
 - Covers **ownership, IP, user conduct, liability, updates, and branding**  
 
@@ -23,7 +24,8 @@ By using the Lab⚛︎ratory™, you agree to the **Terms of Service**:
 ## 🔒 Privacy Policy
 Your interaction with Lab⚛︎ratory™ is governed by the **Privacy Policy**:  
 
-- 🏝️ **View / Version-controlled Privacy Policy:** [Privacy_Policy.md](./Privacy_Policy.md)  
+- 🏝️ **Authoritative Privacy Policy (website):** [https://drmarchandslaboratory.com/Privacy/](https://drmarchandslaboratory.com/Privacy/)  
+- 🏝️ **GitHub version (for version control):** [Privacy_Policy.md](./Privacy_Policy.md)  
 - **Dynamic Variables:** `{{PRIVACY_VERSION}}`, `{{LAST_UPDATE}}`, `{{USER_ID}}`, `{{ENGINE_LINK}}`  
 - Covers **data collection, use, sharing, user rights, security, and cookies**  
 
@@ -34,7 +36,8 @@ Your interaction with Lab⚛︎ratory™ is governed by the **Privacy Policy**:
 ## 🪧 Notice
 All trademarks, system names, and proprietary content are **owned and operated by Design Orchard LLC**:  
 
-- 🪧 **View Notice:** [NOTICE.md](./NOTICE.md)  
+- 🪧 **Authoritative Notice (website):** [https://drmarchandslaboratory.com/Notice/](https://drmarchandslaboratory.com/Notice/)  
+- 🪧 **GitHub version (for version control):** [NOTICE.md](./NOTICE.md)  
 - Includes **system ownership, branding, disclaimers, and licensing restrictions**  
 - Covers 🔬 DrMarchand’s Lab⚛︎ratory™, DrMarchand’s ♾️ OS™, Lionheart℠, and ⚙︎ Nɛuro-Forge Engine™
 
