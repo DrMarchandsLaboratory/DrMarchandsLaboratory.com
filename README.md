@@ -36,7 +36,7 @@ Your interaction with Lab⚛︎ratory™ is governed by the **Privacy Policy**:
 ## 🪧 Notice
 All trademarks, system names, and proprietary content are **owned and operated by Design Orchard LLC**:  
 
-- 🪧 **Authoritative Notice (website):** [https://drmarchandslaboratory.com/Notice/](https://drmarchandslaboratory.com/Notice/)  
+- 🪧 **Authoritative Notice (website):** [https://drmarchandslaboratory.com/Notice/](https://drmarchandslaboratory.com/NOTICE/)  
 - 🪧 **GitHub version (for version control):** [NOTICE.md](./NOTICE.md)  
 - Includes **system ownership, branding, disclaimers, and licensing restrictions**  
 - Covers 🔬 DrMarchand’s Lab⚛︎ratory™, DrMarchand’s ♾️ OS™, Lionheart℠, and ⚙︎ Nɛuro-Forge Engine™
