@@ -1,6 +1,8 @@
 # 🔬 DrMarchand’s Lab⚛︎ratory™  
 🏝️ Design Orchard™ | 🌴 Design Orchard LLC © 2026
 
+![🌐 Design Orchard™](https://img.shields.io/badge/Design-Orchard™-00AEEF) ![🔬 Lab⚛︎ratory™](https://img.shields.io/badge/Lab-⚛︎ratory™-FF6F61)
+
 Welcome to **DrMarchand’s Lab⚛︎ratory™**, the home of **DrMarchand’s ♾️ OS™**, ⚙︎ Nɛuro-Forge Engine™, Lionheart℠, and 🪑 DrMarchand’s ☸︎ Workbench™.  
 
 This repository contains the **core governance, legal notices, and system architecture** for the ∞ OS™ ecosystem.  
@@ -10,7 +12,7 @@ This repository contains the **core governance, legal notices, and system archit
 ## 📜 Terms of Service (TOS)
 By using the Lab⚛︎ratory™, you agree to the **Terms of Service**:  
 
-- 🪪 **View / Version-controlled TOS:** [Terms_of_Service.md](./../DrMarchandsLab.com/Terms_of_Service.md)  
+- 🪪 **View / Version-controlled TOS:** [Terms_of_Service.md](./Terms_of_Service.md)  
 - **Dynamic Variables:** `{{TOS_VERSION}}`, `{{LAST_UPDATE}}`, `{{USER_ID}}`  
 - Covers **ownership, IP, user conduct, liability, updates, and branding**  
 
@@ -50,6 +52,15 @@ The Lab⚛︎ratory™ and its content are **proprietary**:
 
 ---
 
+## ⚖️ Current Versions
+- TOS: `{{TOS_VERSION}}`  
+- Privacy: `{{PRIVACY_VERSION}}`  
+- Notice: `{{NOTICE_VERSION}}`  
+
+> These values are dynamically pulled from the engine to reflect the latest legal versions.
+
+---
+
 ## ⚠️ Disclaimers
 - 🔹 I am **not a medical doctor, certified professional, or licensed** in any field.  
 - 🔹 I hold **no college degree** or formal certification.  
@@ -65,4 +76,4 @@ For questions about licensing, terms, or usage:
 
 **© 2026 🌴 Design Orchard LLC**  
 All Rights Reserved.  
-🔬 DrMarchand’s Lab⚛︎ratory™ | DrMarchand’s ♾️ OS™ | Lionheart℠ | ⚙︎ Nɛuro-Forge Engine™ | 🪑 DrMarchand’s ☸︎ Workbench™
+🔬 DrMarchand’s Lab⚛︎ratory™ | DrMarchand’s ♾️ OS™ | Lionheart℠ | ⚙︎ Nɛuro-Forge Engine™ | 🪑 DrMarchand’s ☸︎ Workbench™  
