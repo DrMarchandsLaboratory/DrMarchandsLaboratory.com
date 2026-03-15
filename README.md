@@ -12,7 +12,7 @@ This repository contains the **core governance, legal notices, and system archit
 ## 📜 Terms of Service (TOS)
 By using the Lab⚛︎ratory™, you agree to the **Terms of Service**:  
 
-- 🪪 **View / Version-controlled TOS:** [Terms_of_Service.md](https://GitHub.com/DesignOrchardLLC/Terms_of_Service.md)  
+- 🪪 **View / Version-controlled TOS:** [Terms_of_Service.md](https://GitHub.com/DesignOrchardLLC/drmarchandslab.com/Terms_of_Service.md)  
 - **Dynamic Variables:** `{{TOS_VERSION}}`, `{{LAST_UPDATE}}`, `{{USER_ID}}`  
 - Covers **ownership, IP, user conduct, liability, updates, and branding**  
 
