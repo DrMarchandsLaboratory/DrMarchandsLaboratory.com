@@ -121,7 +121,7 @@ Dynamic variables tracked by ⚙︎ Nɛuro-Forge Engine™:
 | Attribute | Data |
 |--------|--------|
 | Operator | Kyle Marchand |
-| Role | Lab Architect & ∞ OS™ Executor |
+| Role | Owner |
 | Engine | ⚙︎ Nɛuro-Forge Engine™ |
 | Organization | 🌴 Design Orchard LLC © |
 | Contact | kyle@drmarchandslab.com |
