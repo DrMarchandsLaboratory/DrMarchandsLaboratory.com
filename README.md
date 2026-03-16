@@ -125,7 +125,7 @@ Dynamic variables tracked by ⚙︎ Nɛuro-Forge Engine™:
 | Engine | ⚙︎ Nɛuro-Forge Engine™ |
 | Organization | 🌴 Design Orchard LLC © |
 | Contact | kyle@drmarchandslab.com |
-| Domain | https://drmarchandslab.com |
+| Domain | https://drmarchandslaboratory.com |
 
 ---
 
