@@ -1,61 +1,45 @@
 <div align="center">
 🔬 DrMarchand’s Lab⚛︎ratory™
 🏝️ Design Orchard™ | 🌴 Design Orchard LLC © 2026
-<!-- Vibrant, Stylized Badges -->
-Welcome to DrMarchand’s Lab⚛︎ratory™, the creative and technical home of 
-
-DrMarchand’s ♾️ OS™, ⚙︎ Nɛuro-Forge Engine™, Lionheart℠, and 🪑 DrMarchand’s ☸︎ Workbench™.
-This repository serves as the central hub for the core governance, legal notices, system architecture, and reference licenses powering the ∞ OS™ ecosystem.
 </div>
-📜  Governance & Terms
-🔹 Terms of Service (TOS)
-By operating within the Lab⚛︎ratory™, you agree to the governing Terms of Service. Continued use constitutes full acceptance of the latest dynamic version.
-> 🪪 Authoritative Hub: drmarchandslaboratory.com/TOS/
-> 🪪 Repository Source: Terms_of_Service.md
-> ⚙︎ Engine Variables: {{TOS_VERSION}} | {{LAST_UPDATE}} | {{USER_ID}}
-> 📌 Scope: Ownership, IP, User Conduct, Liability, Updates, & Branding.
-> 
-🔹 Privacy Policy
-Your interaction with the ecosystem is protected and governed by our Privacy Policy. Privacy practices evolve; continued use equates to acceptance.
-> 🏝️ Authoritative Hub: drmarchandslaboratory.com/Privacy/
-> 🏝️ Repository Source: Privacy_Policy.md
-> ⚙︎ Engine Variables: {{PRIVACY_VERSION}} | {{LAST_UPDATE}} | {{USER_ID}} | {{ENGINE_LINK}}
-> 📌 Scope: Data Collection, Usage, Sharing, User Rights, Security, & Cookies.
-> 
-🪧  Proprietary Notices & Licensing
-🔹 Notice – ∞ OS™
-All trademarks, system architectures, and proprietary logic are exclusively owned and operated by 🌴 Design Orchard LLC. Nothing in this repository grants permission to reproduce proprietary assets or utilize trademarks without explicit, written authorization.
-> 🪧 Authoritative Hub: drmarchandslaboratory.com/Notice/
-> 🪧 Repository Source: Notice-OS.md
-> 🛡️ Protected Assets: DrMarchand’s ♾️ OS™ | Lionheart℠ | ⚙︎ Nɛuro-Forge Engine™ | 🪑 DrMarchand’s ☸︎ Workbench™
-> 
-🔹 License – Apache 2.0 (Code & Examples Only)
-While the overarching system remains proprietary, specific shareable code snippets and examples within this repository are generously licensed under the Apache License, Version 2.0.
-> 🪪 Repository Source: License-DML.md
-> ⚙︎ Engine Variables: {{LICENSE_VERSION}} | {{LAST_UPDATE}}
-> 📌 Scope: Permitted use, conditions, and attribution requirements for designated open-source code only.
-> 
-⚖️  Dynamic Version Control
-The following parameters are actively monitored and injected by the ⚙︎ Nɛuro-Forge Engine™:
-| System Document | Live Version Variable |
+Welcome to DrMarchand’s Lab⚛︎ratory™, the home of DrMarchand’s ♾️ OS™, ⚙︎ Nɛuro-Forge Engine™, Lionheart℠, and 🪑 DrMarchand’s ☸︎ Workbench™.
+This repository contains the core governance, legal notices, system architecture, and reference licenses for the ∞ OS™ ecosystem.
+📜 Terms of Service (TOS)
+By using the Lab⚛︎ratory™, you agree to the Terms of Service. Continued use constitutes acceptance of the latest version. Covers ownership, IP, user conduct, liability, updates, and branding.
+ * 🪪 Authoritative TOS (Website): drmarchandslaboratory.com/TOS/
+ * 🪪 Version Control: Terms_of_Service.md
+ * ⚙︎ Engine Variables: {{TOS_VERSION}}, {{LAST_UPDATE}}, {{USER_ID}}
+🔒 Privacy Policy
+Your interaction with Lab⚛︎ratory™ is governed by our Privacy Policy. Privacy practices may be updated periodically; continued use constitutes acceptance of the latest version.
+ * 🏝️ Authoritative Privacy Policy (Website): drmarchandslaboratory.com/Privacy/
+ * 🏝️ Version Control: Privacy_Policy.md
+ * ⚙︎ Engine Variables: {{PRIVACY_VERSION}}, {{LAST_UPDATE}}, {{USER_ID}}, {{ENGINE_LINK}}
+🪧 Notice – ∞ OS™
+All trademarks, system names, and proprietary content are owned and operated by Design Orchard LLC. Nothing in this Notice grants permission to reproduce proprietary logic or use trademarks without explicit authorization.
+ * 🪧 Authoritative Notice (Website): drmarchandslaboratory.com/Notice/
+ * 🪧 Version Control: Notice-OS.md
+ * 🛡️ Protected Assets: DrMarchand’s ♾️ OS™, Lionheart℠, ⚙︎ Nɛuro-Forge Engine™, 🪑 DrMarchand’s ☸︎ Workbench™
+🪪 License – Apache 2.0
+Certain shareable code and examples in this repository are licensed under the official Apache License, Version 2.0 (for code & examples only). All other content, system architecture, and branding remain fully proprietary.
+ * 🪪 Version Control: License-DML.md
+ * ⚙︎ Engine Variables: {{LICENSE_VERSION}}, {{LAST_UPDATE}}
+⚖️ Current Versions
+Placeholders below are dynamically updated by the ⚙︎ Nɛuro-Forge Engine™ for the latest legal versions.
+| Document | Active Version |
 |---|---|
-| 📜 Terms of Service | {{TOS_VERSION}} |
-| 🔒 Privacy Policy | {{PRIVACY_VERSION}} |
-| 🪧 Proprietary Notice | {{NOTICE_VERSION}} |
-| 🪪 Open-Source License | {{LICENSE_VERSION}} |
-⚠️  Lab⚛︎ratory Disclaimers
-> [!CAUTION]
-> 🛑 Personal & Professional Boundaries
+| TOS | {{TOS_VERSION}} |
+| Privacy Policy | {{PRIVACY_VERSION}} |
+| Notice | {{NOTICE_VERSION}} |
+| License | {{LICENSE_VERSION}} |
+> [!WARNING]
+> ⚠️ Disclaimers
 >  * 🔹 I am not a medical doctor, certified professional, or licensed in any field.
 >  * 🔹 I hold no college degree or formal certification.
->  * 🔹 All tools, systems, guidance, and content provided within this ecosystem are strictly educational, creative, or system-related.
+>  * 🔹 All tools, guidance, and content provided here are strictly educational, creative, or system-related.
 > 
+📬 Contact & Licensing
+For questions about licensing, terms, or usage, please visit:
+drmarchandslab.com
 <div align="center">
-📬  Contact & Authorizations
-For inquiries regarding custom licensing, terms of use, or enterprise authorization, please visit:
-🌐 drmarchandslab.com
-© 2026 🌴 Design Orchard LLC. All Rights Reserved.
-
-
-🔬 DrMarchand’s Lab⚛︎ratory™ | DrMarchand’s ♾️ OS™ | Lionheart℠ | ⚙︎ Nɛuro-Forge Engine™ | 🪑 DrMarchand’s ☸︎ Workbench™
+© 2026 🌴 Design Orchard LLC. All Rights Reserved. 🔬 DrMarchand’s Lab⚛︎ratory™ | DrMarchand’s ♾️ OS™ | Lionheart℠ | ⚙︎ Nɛuro-Forge Engine™ | 🪑 DrMarchand’s ☸︎ Workbench™
 </div>
