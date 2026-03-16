@@ -1,8 +1,8 @@
 # 🔬 DrMarchand’s Lab⚛︎ratory™
 
-*Primary Repository of the ∞ OS™ Ecosystem*
+*🏗️ Where code becomes architecture.*
 
-> “Where experimentation becomes architecture.”
+> Primary Repository of the ∞ OS™ Ecosystem
 
 ---
 
