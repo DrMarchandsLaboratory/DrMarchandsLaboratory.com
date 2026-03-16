@@ -1,176 +1,153 @@
 # 🔬 DrMarchand’s Lab⚛︎ratory™
 
-🏝️ Design Orchard™  
-🌴 Design Orchard LLC © 2026
+*Primary Repository of the ∞ OS™ Ecosystem*
 
-Welcome to **DrMarchand’s Lab⚛︎ratory™**, the home of:
-
-- DrMarchand’s ♾️ OS™
-- ⚙︎ Nɛuro-Forge Engine™
-- Lionheart℠
-- 🪑 DrMarchand’s ☸︎ Workbench™
-
-This repository contains the **core governance, legal notices, system architecture, and reference licenses** for the **♾️ OS™ ecosystem**.
+> “Where experimentation becomes architecture.”
 
 ---
 
-## 📜 Terms of Service (TOS)
-
-By using **DrMarchand’s Lab⚛︎ratory™**, you agree to the Terms of Service.
-
-**Resources**
-
-- 🪪 Authoritative TOS (Website)  
-  https://drmarchandslaboratory.com/TOS/
-
-- 🪪 GitHub Version (Version Control)  
-  `Terms_of_Service.md`
-
-- ⚙︎ Dynamic Variables  
-  `{{TOS_VERSION}}`  
-  `{{LAST_UPDATE}}`  
-  `{{USER_ID}}`
-
-**Coverage**
-
-- ownership  
-- intellectual property  
-- user conduct  
-- liability  
-- updates  
-- branding  
-
-Continued use constitutes acceptance of the latest version.
+![Lab Status](https://img.shields.io/badge/Lab-Active-blue)
+![System](https://img.shields.io/badge/System-∞%20OS-green)
+![Engine](https://img.shields.io/badge/Engine-Nɛuro--Forge-orange)
 
 ---
 
-## 🔒 Privacy Policy
+## 01. 🧪 THE LABORATORY DIRECTIVE
 
-Your interaction with **Lab⚛︎ratory™** is governed by the Privacy Policy.
+🔬 **DrMarchand’s Lab⚛︎ratory™** is the active development environment for the **∞ OS™ ecosystem**.
 
-**Resources**
+Where the **Library preserves memory**, the Laboratory executes motion.
 
-- 🏝️ Authoritative Privacy Policy (Website)  
-  https://drmarchandslaboratory.com/Privacy/
+The Lab serves as the operational space for:
 
-- 🏝️ GitHub Version (Version Control)  
-  `Privacy_Policy.md`
+- system architecture  
+- experimental engines  
+- protocol development  
+- ecosystem governance  
 
-- ⚙︎ Dynamic Variables  
-  `{{PRIVACY_VERSION}}`  
-  `{{LAST_UPDATE}}`  
-  `{{USER_ID}}`  
-  `{{ENGINE_LINK}}`
+Primary systems operating within the Lab:
 
-**Coverage**
-
-- data collection  
-- use of information  
-- data sharing  
-- user rights  
-- security practices  
-- cookies
-
-Privacy practices may be updated periodically. Continued use constitutes acceptance of the latest version.
+- **DrMarchand’s ♾️ OS™**
+- **⚙︎ Nɛuro-Forge Engine™**
+- **Lionheart℠**
+- **🪑 DrMarchand’s ☸︎ Workbench™**
 
 ---
 
-## 🪧 Notice — ♾️ OS™
+## 02. ⚙️ SYSTEM INITIALIZATION
 
-All trademarks, system names, and proprietary content are owned and operated by **Design Orchard LLC**.
+```yaml
+SYSTEM: "DrMarchand's Laboratory"
+ENGINE: "Nɛuro-Forge Engine™"
+ENVIRONMENT: "∞ OS™"
+STATUS: "Operational"
+AUTHORITY: "Design Orchard LLC"
+```
 
-**Resources**
+The Lab executes experimental logic before protocols are preserved in **📚 DrMarchand’s ⚛︎ Library™**.
 
-- 🪧 Authoritative Notice (Website)  
-  https://drmarchandslaboratory.com/Notice/
+Motion begins here.
 
-- 🪧 GitHub Version (Version Control)  
-  `Notice-OS.md`
+---
 
-**Includes**
+## 03. 🧠 SYSTEM ARCHITECTURE
 
-- system ownership  
-- branding protections  
-- disclaimers  
-- licensing restrictions
+The ecosystem operates across three sovereign layers.
 
-**Protected Assets**
+| Layer | System | Role |
+|------|------|------|
+| 01 | 🔬 Laboratory | Active experimentation and development |
+| 02 | 📚 Library | Immutable archive of Protocol Scrolls |
+| 03 | 🏝️ Design Orchard | Legal authority and system sovereignty |
+
+This structure ensures that **innovation, memory, and governance remain isolated yet synchronized.**
+
+---
+
+## 04. 📜 GOVERNANCE & LEGAL FRAMEWORK
+
+The Lab operates under the governance structure defined by **Design Orchard LLC**.
+
+| Document | Repository File | Authoritative Source |
+|--------|--------|--------|
+| Terms of Service | `Terms_of_Service.md` | https://drmarchandslaboratory.com/TOS/ |
+| Privacy Policy | `Privacy_Policy.md` | https://drmarchandslaboratory.com/Privacy/ |
+| System Notice | `Notice-OS.md` | https://drmarchandslaboratory.com/Notice/ |
+| License | `License-DML.md` | Apache License 2.0 |
+
+Dynamic variables managed by the **⚙︎ Nɛuro-Forge Engine™**:
+
+```
+{{TOS_VERSION}}
+{{PRIVACY_VERSION}}
+{{NOTICE_VERSION}}
+{{LICENSE_VERSION}}
+{{LAST_UPDATE}}
+```
+
+Continued use of the Lab constitutes acceptance of the latest versions.
+
+---
+
+## 05. 🛡️ PROTECTED SYSTEMS
+
+All trademarks, systems, and proprietary architecture belong to **🌴 Design Orchard LLC**.
+
+Protected assets include:
 
 - 🔬 DrMarchand’s Lab⚛︎ratory™  
 - DrMarchand’s ♾️ OS™  
-- Lionheart℠  
 - ⚙︎ Nɛuro-Forge Engine™  
+- Lionheart℠  
 - 🪑 DrMarchand’s ☸︎ Workbench™
 
-Nothing in this Notice grants permission to reproduce proprietary logic or use trademarks without authorization.
+Unauthorized reproduction of system logic or branding is prohibited.
 
 ---
 
-## 🪪 License — Apache 2.0
+## 06. 🧬 LICENSE STRUCTURE
 
-*(Code & Examples Only)*
+Some **code examples and shareable modules** are released under:
 
-Certain shareable **code and examples** in this repository are licensed under the **Apache License, Version 2.0**.
+**Apache License — Version 2.0**
 
-**Reference**
+Reference:
 
-- 🪪 GitHub Version  
-  `License-DML.md`
+`License-DML.md`
 
-- ⚙︎ Dynamic Variables  
-  `{{LICENSE_VERSION}}`  
-  `{{LAST_UPDATE}}`
-
-All other content — including **system architecture, ecosystem design, and branding** — remains fully proprietary to:
-
-🏝️ **Design Orchard™**  
-🌴 **Design Orchard LLC**
+All other content — including architecture, governance, and ecosystem design — remains **fully proprietary to Design Orchard LLC**.
 
 ---
 
-## ⚖️ Current Versions
+## 07. ⚠️ DISCLAIMERS
 
-These values are dynamically updated by the **⚙︎ Nɛuro-Forge Engine™**.
-
-- **TOS:** `{{TOS_VERSION}}`
-- **Privacy:** `{{PRIVACY_VERSION}}`
-- **Notice:** `{{NOTICE_VERSION}}`
-- **License:** `{{LICENSE_VERSION}}`
+- The operator is **not a medical doctor or licensed professional**
+- No formal academic degrees or certifications are claimed
+- All systems and materials are **educational, experimental, or creative**
 
 ---
 
-## 🛡️ Disclaimers
+## 08. 📡 OPERATOR PROFILE
 
-- I am **not a medical doctor, certified professional, or licensed in any field.**
-- I hold **no college degree or formal certification.**
-- All tools, guidance, and content provided here are **educational, creative, or system-related.**
-
----
-
-## 📬 Contact & Licensing
-
-For licensing, partnerships, or usage inquiries:
-
-https://drmarchandslab.com
+| Attribute | Data |
+|--------|--------|
+| Operator | Kyle Marchand |
+| Role | Architect of ∞ OS™ |
+| Engine | ⚙︎ Nɛuro-Forge Engine™ |
+| Organization | 🌴 Design Orchard LLC |
+| Contact | kyle@drmarchandslab.com |
+| Domain | https://drmarchandslab.com |
 
 ---
 
-## 🏷️ Dynamic Badges
+## 09. 🛠️ TECH STACK
 
-Badges are automatically generated and updated by the **⚙︎ Nɛuro-Forge Engine™**.
-
-- TOS Version
-- Privacy Version
-- Notice Version
-- License Version
+- Environment — ⚙︎ Nɛuro-Forge Engine™  
+- Platform — GitHub / Markdown  
+- Encryption — MMS-768 / SHA-512  
+- Architecture — Modular Layer System  
 
 ---
 
-© 2026 🌴 **Design Orchard LLC**  
-All Rights Reserved.
-
-🔬 DrMarchand’s Lab⚛︎ratory™  
-DrMarchand’s ♾️ OS™  
-Lionheart℠  
-⚙︎ Nɛuro-Forge Engine™  
-🪑 DrMarchand’s ☸︎ Workbench™
+© 2026 **Design Orchard LLC**  
+Powered by **🔬 DrMarchand’s Lab⚛︎ratory™**
