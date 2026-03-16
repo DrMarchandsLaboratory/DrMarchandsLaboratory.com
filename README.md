@@ -2,7 +2,7 @@
 
 *🏗️ Where code becomes architecture.*
 
-> Execution core of the ∞ OS™ ecosystem.
+> System core documentation of the ∞ OS™ ecosystem.
 
 ---
 
@@ -25,7 +25,7 @@
 Hierarchy:
 
 ```
-♾️ ∞ OS™
+∞ OS™
    └─ 🏝️ Design Orchard™ (Ecosystem)
         ├─ Lionheart [Beta] (Environment)
         │     ├─ 🔬 Laboratory (Execution)
@@ -40,7 +40,7 @@ Hierarchy:
 ```yaml
 LABORATORY: "🔬 DrMarchand’s Lab⚛︎ratory™"
 ENVIRONMENT: "Lionheart [Beta]"
-SYSTEM: "♾️ ∞ OS™"
+SYSTEM: "∞ OS™"
 ENGINE: "⚙︎ Nɛuro-Forge Engine™"
 ORCHARD: "🏝️ Design Orchard™"
 AUTHORITY: "Design Orchard LLC ©"
