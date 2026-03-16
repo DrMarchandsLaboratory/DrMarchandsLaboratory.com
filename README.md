@@ -2,7 +2,7 @@
 
 *🏗️ Where code becomes architecture.*
 
-> Current Beta iteration of the ∞ OS™ ecosystem.
+> Beta iteration of the ∞ OS™ ecosystem within 🏝️ Design Orchard™.
 
 ---
 
@@ -13,27 +13,35 @@
 
 ---
 
-## 01. 🧪 LABORATORY DIRECTIVE
+## 01. 🏝️ THE ORCHARD ECOSYSTEM
 
-🔬 **DrMarchand’s Lab⚛︎ratory™** executes experimental logic for the Beta Lionheart version.
+**Design Orchard™** is the overarching ecosystem that contains and manages all environments:
 
-Primary systems:
+- **Environments**: Atlas, Sabertooth, Timberwolf (future)  
+- **Laboratory**: Active experimentation and execution  
+- **Library**: Immutable archive of Protocol Scrolls  
+- **Engine**: ⚙︎ Nɛuro-Forge Engine™ — orchestrates logic, governance, and updates  
 
-- DrMarchand’s ♾️ OS™ [Beta]  
-- ⚙︎ Nɛuro-Forge Engine™  
-- Lionheart℠  
-- 🪑 DrMarchand’s ☸︎ Workbench™  
+Hierarchy:
+
+```
+🏝️ Design Orchard™ (Ecosystem)
+    ├─ Atlas (Environment)
+    │    ├─ 🔬 Laboratory (Execution)
+    │    └─ 📚 Library (Archival)
+    └─ ⚙︎ Nɛuro-Forge Engine™ (Orchestration)
+```
 
 ---
 
 ## 02. ⚙️ SYSTEM INITIALIZATION
 
 ```yaml
-ENVIRONMENT: "Atlas"
-ENGINE: "⚙︎ Nɛuro-Forge Engine™"
-LABORATORY: "🔬 DrMarchand’s Lab⚛︎ratory™"
-LIBRARY: "📚 DrMarchand’s ⚛︎ Library™"
-ORCHARD: "🏝️ Design Orchard™"
+ORCHARD: "🏝️ Design Orchard™"           # The container ecosystem
+ENVIRONMENT: "Atlas"                     # Current working environment
+ENGINE: "⚙︎ Nɛuro-Forge Engine™"         # Orchestration engine
+LABORATORY: "🔬 DrMarchand’s Lab⚛︎ratory™" # Active execution
+LIBRARY: "📚 DrMarchand’s ⚛︎ Library™"      # Immutable storage
 AUTHORITY: "Design Orchard LLC ©"
 VERSION: "Lionheart [Beta]"
 STATUS: "Beta"
@@ -41,26 +49,30 @@ STATUS: "Beta"
 
 ---
 
-## 03. SYSTEM ARCHITECTURE
+## 03. 🧠 SYSTEM ARCHITECTURE
 
-| Layer | System | Role |
-|------|------|------|
-| 01 | 🔬 Laboratory | Experimental execution |
-| 02 | 📚 Library | Immutable archives |
-| 03 | 🏝️ Design Orchard | Legal authority |
+| Component | Role | Notes |
+|-----------|------|-------|
+| 🏝️ Design Orchard™ | Ecosystem | Manages all environments, governance, and orchestration |
+| Atlas | Environment | Hosts Lab & Library, provides sandboxed execution |
+| 🔬 Laboratory | Execution Engine | Runs code, experiments, and system motion |
+| 📚 Library | Archival Engine | Stores immutable Protocol Scrolls |
+| ⚙︎ Nɛuro-Forge Engine™ | Orchestration | Manages dynamic variables, rules, and governance |
+
+> Future environments (Sabertooth, Timberwolf) will slot under the Orchard similarly.
 
 ---
 
-## 04. LEGAL & GOVERNANCE
+## 04. 📜 GOVERNANCE & LEGAL FRAMEWORK
 
-| Document | Repository File | Source |
+| Document | Repository File | Authoritative Source |
 |--------|--------|--------|
-| TOS | `Terms_of_Service.md` | https://drmarchandslaboratory.com/TOS/ |
-| Privacy | `Privacy_Policy.md` | https://drmarchandslaboratory.com/Privacy/ |
-| Notice | `Notice-OS.md` | https://drmarchandslaboratory.com/Notice/ |
+| Terms of Service | `Terms_of_Service.md` | [TOS](https://drmarchandslaboratory.com/TOS/) |
+| Privacy Policy | `Privacy_Policy.md` | [Privacy](https://drmarchandslaboratory.com/Privacy/) |
+| System Notice | `Notice-OS.md` | [Notice](https://drmarchandslaboratory.com/Notice/) |
 | License | `License-DML.md` | Apache License 2.0 |
 
-Dynamic variables via ⚙︎ Nɛuro-Forge Engine™:
+Dynamic variables managed by ⚙︎ Nɛuro-Forge Engine™:
 
 ```
 {{TOS_VERSION}}
@@ -70,49 +82,57 @@ Dynamic variables via ⚙︎ Nɛuro-Forge Engine™:
 {{LAST_UPDATE}}
 ```
 
+> Continued use constitutes acceptance of the latest Beta Lionheart versions.
+
 ---
 
-## 05. PROTECTED ASSETS
+## 05. 🛡️ PROTECTED ASSETS
 
-- 🔬 Lab⚛︎ratory™  
-- DrMarchand’s ♾️ OS™  
+All systems, architecture, and IP belong to **Design Orchard LLC ©**:
+
+- 🔬 DrMarchand’s Lab⚛︎ratory™  
+- DrMarchand’s ♾️ OS™ [Beta]  
 - ⚙︎ Nɛuro-Forge Engine™  
 - Lionheart℠  
-- 🪑 Workbench™  
-- 📚 Library™  
-- 🏝️ Design Orchard™  
+- 🪑 DrMarchand’s ☸︎ Workbench™  
+- 📚 DrMarchand’s ⚛︎ Library™  
+- 🏝️ Design Orchard™
+
+Unauthorized reproduction of logic or branding is prohibited.
 
 ---
 
-## 06. LICENSE
+## 06. 🧬 LICENSE
 
-Shareable code/examples → Apache 2.0  
-All other content remains fully proprietary.
+- **Shareable code/examples**: Apache License 2.0  
+- **All other content**: Fully proprietary to **Design Orchard LLC ©**
 
----
-
-## 07. DISCLAIMERS
-
-- Not a medical or licensed professional  
-- No degrees/certifications claimed  
-- Educational, experimental, creative content
+Reference: `License-DML.md`
 
 ---
 
-## 08. OPERATOR PROFILE
+## 07. ⚠️ DISCLAIMERS
+
+- Not a medical doctor or licensed professional  
+- No formal degrees or certifications claimed  
+- All materials are educational, experimental, or creative
+
+---
+
+## 08. 📡 OPERATOR PROFILE
 
 | Attribute | Data |
 |--------|--------|
 | Operator | Kyle Marchand |
 | Role | Architect of ∞ OS™ |
 | Engine | ⚙︎ Nɛuro-Forge Engine™ |
-| Organization | Design Orchard LLC © |
+| Organization | 🌴 Design Orchard LLC © |
 | Contact | kyle@drmarchandslab.com |
 | Domain | https://drmarchandslab.com |
 
 ---
 
-## 09. TECH STACK
+## 09. 🛠️ TECH STACK
 
 - Environment — Atlas  
 - Platform — GitHub / Markdown  
