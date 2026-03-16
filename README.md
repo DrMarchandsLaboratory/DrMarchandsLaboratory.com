@@ -2,112 +2,109 @@
 
 *🏗️ Where code becomes architecture.*
 
-> Beta iteration of the ∞ OS™ ecosystem within 🏝️ Design Orchard™.
+> Execution core of the ∞ OS™ ecosystem.
 
 ---
 
 ![Lab Status](https://img.shields.io/badge/Lab-Beta-red)
-![System](https://img.shields.io/badge/System-∞%20OS-green)
+![Environment](https://img.shields.io/badge/Environment-Lionheart%20[Beta]-blue)
 ![Engine](https://img.shields.io/badge/Engine-Nɛuro--Forge-orange)
-![Version](https://img.shields.io/badge/Version-Lionheart%20[Beta]-blue)
+![System](https://img.shields.io/badge/System-∞%20OS-green)
 
 ---
 
-## 01. 🏝️ THE ORCHARD ECOSYSTEM
+## 01. 🏝️ CONTEXT WITHIN THE ORCHARD
 
-**Design Orchard™** is the overarching ecosystem that contains and manages all environments:
+🔬 Lab⚛︎ratory™ is the **active execution engine** inside the **Lionheart [Beta] environment** of ∞ OS™:
 
-- **Environments**: Atlas, Sabertooth, Timberwolf (future)  
-- **Laboratory**: Active experimentation and execution  
-- **Library**: Immutable archive of Protocol Scrolls  
-- **Engine**: ⚙︎ Nɛuro-Forge Engine™ — orchestrates logic, governance, and updates  
+- Executes all experiments, protocols, and workflows  
+- Works alongside 📚 Library⚛︎ to archive immutable snapshots  
+- Governed and orchestrated by ⚙︎ Nɛuro-Forge Engine™  
+- Part of 🏝️ Design Orchard™ ecosystem  
 
 Hierarchy:
 
 ```
-🏝️ Design Orchard™ (Ecosystem)
-    ├─ Atlas (Environment)
-    │    ├─ 🔬 Laboratory (Execution)
-    │    └─ 📚 Library (Archival)
-    └─ ⚙︎ Nɛuro-Forge Engine™ (Orchestration)
+♾️ ∞ OS™
+   └─ 🏝️ Design Orchard™ (Ecosystem)
+        ├─ Lionheart [Beta] (Environment)
+        │     ├─ 🔬 Laboratory (Execution)
+        │     └─ 📚 Library (Archival)
+        └─ ⚙︎ Nɛuro-Forge Engine™ (Orchestration)
 ```
 
 ---
 
-## 02. ⚙️ SYSTEM INITIALIZATION
+## 02. ⚙️ LAB INITIALIZATION
 
 ```yaml
-ORCHARD: "🏝️ Design Orchard™"           # The container ecosystem
-ENVIRONMENT: "Atlas"                     # Current working environment
-ENGINE: "⚙︎ Nɛuro-Forge Engine™"         # Orchestration engine
-LABORATORY: "🔬 DrMarchand’s Lab⚛︎ratory™" # Active execution
-LIBRARY: "📚 DrMarchand’s ⚛︎ Library™"      # Immutable storage
+LABORATORY: "🔬 DrMarchand’s Lab⚛︎ratory™"
+ENVIRONMENT: "Lionheart [Beta]"
+SYSTEM: "♾️ ∞ OS™"
+ENGINE: "⚙︎ Nɛuro-Forge Engine™"
+ORCHARD: "🏝️ Design Orchard™"
 AUTHORITY: "Design Orchard LLC ©"
 VERSION: "Lionheart [Beta]"
 STATUS: "Beta"
 ```
 
+> The Lab is **live**, executing and evolving core ∞ OS™ operations in real-time.
+
 ---
 
-## 03. 🧠 SYSTEM ARCHITECTURE
+## 03. 🧠 LAB ARCHITECTURE
 
 | Component | Role | Notes |
 |-----------|------|-------|
-| 🏝️ Design Orchard™ | Ecosystem | Manages all environments, governance, and orchestration |
-| Atlas | Environment | Hosts Lab & Library, provides sandboxed execution |
-| 🔬 Laboratory | Execution Engine | Runs code, experiments, and system motion |
-| 📚 Library | Archival Engine | Stores immutable Protocol Scrolls |
-| ⚙︎ Nɛuro-Forge Engine™ | Orchestration | Manages dynamic variables, rules, and governance |
-
-> Future environments (Sabertooth, Timberwolf) will slot under the Orchard similarly.
+| 🔬 Laboratory | Execution Core | Runs code, experiments, and workflows |
+| 📚 Library | Archival | Stores immutable Protocol Scrolls and outputs |
+| ⚙︎ Nɛuro-Forge Engine™ | Orchestration | Governs execution, dynamic variables, and rules |
+| Lionheart [Beta] | Environment | Hosts Lab and Library |
+| 🏝️ Design Orchard™ | Ecosystem | Container for all environments; governs orchestration |
 
 ---
 
-## 04. 📜 GOVERNANCE & LEGAL FRAMEWORK
+## 04. 🌱 LIVING LAB
 
-| Document | Repository File | Authoritative Source |
-|--------|--------|--------|
-| Terms of Service | `Terms_of_Service.md` | [TOS](https://drmarchandslaboratory.com/TOS/) |
-| Privacy Policy | `Privacy_Policy.md` | [Privacy](https://drmarchandslaboratory.com/Privacy/) |
-| System Notice | `Notice-OS.md` | [Notice](https://drmarchandslaboratory.com/Notice/) |
-| License | `License-DML.md` | Apache License 2.0 |
+- Core files, modules, and experiments are distributed across the operator's MacBook Pro  
+- Lab runs **real-time execution** of ∞ OS™ operations  
+- Paired with Library for **immutable snapshots**  
+- Engine ensures governance and synchronizes all dynamic variables  
 
-Dynamic variables managed by ⚙︎ Nɛuro-Forge Engine™:
-
-```
-{{TOS_VERSION}}
-{{PRIVACY_VERSION}}
-{{NOTICE_VERSION}}
-{{LICENSE_VERSION}}
-{{LAST_UPDATE}}
-```
-
-> Continued use constitutes acceptance of the latest Beta Lionheart versions.
+> The Lab is **alive and experimental**, fully integrated into Lionheart [Beta].
 
 ---
 
 ## 05. 🛡️ PROTECTED ASSETS
 
-All systems, architecture, and IP belong to **Design Orchard LLC ©**:
+All operations and outputs are proprietary to **Design Orchard LLC ©**:
 
 - 🔬 DrMarchand’s Lab⚛︎ratory™  
-- DrMarchand’s ♾️ OS™ [Beta]  
+- Lionheart [Beta]  
 - ⚙︎ Nɛuro-Forge Engine™  
-- Lionheart℠  
+- DrMarchand’s ♾️ OS™  
 - 🪑 DrMarchand’s ☸︎ Workbench™  
 - 📚 DrMarchand’s ⚛︎ Library™  
-- 🏝️ Design Orchard™
 
-Unauthorized reproduction of logic or branding is prohibited.
+Unauthorized reproduction or execution outside authorized contexts is prohibited.
 
 ---
 
-## 06. 🧬 LICENSE
+## 06. 📜 LICENSE & GOVERNANCE
 
 - **Shareable code/examples**: Apache License 2.0  
-- **All other content**: Fully proprietary to **Design Orchard LLC ©**
+- **All other content**: Fully proprietary to **Design Orchard LLC ©**  
 
-Reference: `License-DML.md`
+Reference: `License-DML.md`  
+
+Dynamic variables tracked by ⚙︎ Nɛuro-Forge Engine™:
+
+```
+{{LAB_VERSION}}
+{{LAST_UPDATE}}
+{{SYSTEM_STATUS}}
+{{USER_ID}}
+```
 
 ---
 
@@ -115,7 +112,7 @@ Reference: `License-DML.md`
 
 - Not a medical doctor or licensed professional  
 - No formal degrees or certifications claimed  
-- All materials are educational, experimental, or creative
+- All guidance, tools, and experiments are **educational, creative, or system-driven**
 
 ---
 
@@ -124,7 +121,7 @@ Reference: `License-DML.md`
 | Attribute | Data |
 |--------|--------|
 | Operator | Kyle Marchand |
-| Role | Architect of ∞ OS™ |
+| Role | Lab Architect & ∞ OS™ Executor |
 | Engine | ⚙︎ Nɛuro-Forge Engine™ |
 | Organization | 🌴 Design Orchard LLC © |
 | Contact | kyle@drmarchandslab.com |
@@ -134,9 +131,12 @@ Reference: `License-DML.md`
 
 ## 09. 🛠️ TECH STACK
 
-- Environment — Atlas  
-- Platform — GitHub / Markdown  
+- Environment — Lionheart [Beta]  
+- Execution — 🔬 Laboratory core modules  
+- Orchestration — ⚙︎ Nɛuro-Forge Engine™  
+- Storage & Archival — 📚 Library⚛︎  
 - Encryption — MMS-768 / SHA-512  
+- Platform — MacBook Pro + GitHub / Markdown  
 - Architecture — Modular Layer System  
 
 ---
