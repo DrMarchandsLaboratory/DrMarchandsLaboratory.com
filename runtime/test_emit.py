@@ -38,4 +38,3 @@ def fire_test_signal():
 if __name__ == "__main__":
     fire_test_signal()
 
-```
