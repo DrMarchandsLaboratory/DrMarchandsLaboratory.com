@@ -1,4 +1,3 @@
-```python
 import os
 import importlib.util
 import sys
