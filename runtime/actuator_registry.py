@@ -47,4 +47,3 @@ class ActuatorRegistry:
         return self.actuators[cmd].execute(payload)
 
 
-```
